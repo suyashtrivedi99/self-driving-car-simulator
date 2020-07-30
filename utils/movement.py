@@ -1,3 +1,4 @@
+#keyboard controls
 import keyboard as kbd
 import pyautogui as pg
 
